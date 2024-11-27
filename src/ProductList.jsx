@@ -269,7 +269,7 @@ const handlePlantsClick = (e) => {
         {!showCart? (
         <div className="product-grid">
 
-
+                <h1>Holaaaa</h1>
         </div>
  ) :  (
     <CartItem onContinueShopping={handleContinueShopping}/>
